@@ -1,0 +1,7 @@
+2 screens :
+home screen -> the times we have set and also a add time button
+edit screen ->the screen in which we are going to describe the task :
+delete option,discription,sounds,time seting space,date
+alarm alert -> after the alarm starts ringing an alert will pop up on the screen with a tick mark option. after the user clck it the alarm stops and that particular
+               will be shown in faded color with a green tick.
+               
